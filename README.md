@@ -1,12 +1,10 @@
 # Loan Default Risk Analysis
 
 ## Introduction
-Loan defaults present a major risk for banks and financial institutions. This project explores borrower and loan characteristics to uncover factors most strongly linked to loan repayment success or default. By analyzing historical loan datasets, this project provides insights into patterns of risky borrowing behavior.
+- will update later
 
 ## Objectives
-1. Identify financial and demographic factors influencing loan defaults.  
-2. Compare default rates across loan purposes, income levels, and credit grades.  
-3. Provide insights to help lenders improve risk assessment strategies.  
+- will update later
 
 ## Datasets
 - will update later
@@ -18,10 +16,8 @@ Loan defaults present a major risk for banks and financial institutions. This pr
 
 ### Data Preparation
 
--will update later
+- will update later
 
 [//]: # (- Handle missing values &#40;e.g., income, credit score&#41;.  )
-
 [//]: # (- Standardize categorical variables &#40;Loan_Purpose, Employment_Length&#41;.  )
-
 [//]: # (- C)
